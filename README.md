@@ -1,4 +1,4 @@
-# leosdrones
+# Leo's Drones
 
 This is the public media backup for Leo's Drones Aerial Photography.
 PLEASE NOTE: NOT ALL MEDIA FILES CAN BE FOUND. SOME FILES ARE OLDER.
